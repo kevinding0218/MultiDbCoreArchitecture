@@ -36,7 +36,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore.NdcArchitect", "Macr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities.ArchitectMain", "MacroHelixService.Core\DataAccessLayer\EntityLayer\Entities.ArchitectMain\Entities.ArchitectMain.csproj", "{748B8F0F-1E60-4A7A-85FB-2207D7F3C888}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities.Shared", "MacroHelixService.Core\DataAccessLayer\EntityLayer\Entities.Common\Entities.Shared.csproj", "{508A8DB0-633E-4B82-A0B5-5A2A9E4E9ACA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities.Shared", "MacroHelixService.Core\DataAccessLayer\EntityLayer\Entities.Shared\Entities.Shared.csproj", "{508A8DB0-633E-4B82-A0B5-5A2A9E4E9ACA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdoNet.ArchitectMain", "MacroHelixService.Core\DataAccessLayer\AdoNet\AdoNet.ArchitectMain\AdoNet.ArchitectMain.csproj", "{40B43D5F-38D0-4106-98BE-246583BFE019}"
 EndProject
@@ -50,7 +50,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NdcArchitect.WebAPI", "Macr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Architect340B.WebAPI.UnitTest", "MacroHelixService.UnitTests\Architect340B.WebAPI.UnitTest\Architect340B.WebAPI.UnitTest.csproj", "{43B82B34-5878-4843-9DE9-99104B4F4C14}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business.Shared", "MacroHelixService.Core\BusinessLayer\Business.Common\Business.Shared.csproj", "{1B1D3147-6763-482C-8640-8907CAEA5DF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business.Shared", "MacroHelixService.Core\BusinessLayer\Business.Shared\Business.Shared.csproj", "{1B1D3147-6763-482C-8640-8907CAEA5DF6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business.Architect340B", "MacroHelixService.Core\BusinessLayer\Business.Architect340B\Business.Architect340B.csproj", "{786B816F-6A91-4A60-886F-0D54963C8A67}"
 EndProject
